@@ -1,0 +1,63 @@
+/*
+Theme Name: storefront-child
+Template: storefront
+*/
+
+.storefront-product-section.storefront-popular-products{
+    display: none!important;
+}
+
+.storefront-product-section.storefront-best-selling-products{
+    display: none!important;
+}
+
+.button.storefront-hero__button-edit{
+    display: none!important;
+}
+
+.post-40.page.type-page.status-publish.hentry{
+    display: none!important;
+}
+
+.woocommerce-loop-product__title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px!important;
+}
+
+.woocommerce-loop-category__title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px!important;
+}
+
+.section-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px!important;
+    font-weight: bold;
+    margin-bottom: 30px!important;
+}
+
+.button.product_type_variable.add_to_cart_button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.menu.nav-menu{
+    font-family: Arial, Helvetica, sans-serif!important;
+}
+
+.cart-contents{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-full{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-field{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px!important;
+}
+
+.count{
+    font-family: Arial, Helvetica, sans-serif;
+}
